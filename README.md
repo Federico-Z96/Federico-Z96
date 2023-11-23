@@ -9,7 +9,7 @@ EMOJI: https://emojipedia.org/
 
 MyCode:
 
-<img text-align="center" width="30%" src="https://storyset.com/illustration/code-typing/bro#63E07BFF&hide=&hide=complete.img" />
+<img text-align="center" width="30%" src="https://github.com/Federico-Z96/Federico-Z96/assets/124045425/15a3b122-3032-4e03-9dcb-a45e28ab7ed8" />
 
 ### Hi there 😜
 
