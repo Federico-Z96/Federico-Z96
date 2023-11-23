@@ -9,7 +9,7 @@ EMOJI: https://emojipedia.org/
 
 MyCode:
 
-<img text-align="center" width="30%" src="https://www.pinterest.it/pin/1105844883475668300/.img" />
+<img text-align="center" width="30%" src="[https://www.pinterest.it/pin/1105844883475668300/.img](https://storyset.com/illustration/code-typing/bro#63E07BFF&hide=&hide=complete)" />
 
 ### Hi there 😜
 
