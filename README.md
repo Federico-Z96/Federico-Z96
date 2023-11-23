@@ -13,10 +13,8 @@ EMOJI: https://emojipedia.org/
 
 ### Hi there 😜
 
-sono Federico, classe 96 mi sono avvicinato al mondo della programmazione durante il periodo delle pandemie durante il covid-19.
-Durante questo periodo mi informai su vari bootcamp per poi a fine 2022 decidere di intreprende un percorso in questo nuovo settore, come java developer.
-finito questo percorso decisi di approfondire la mia conoscenza nel Front-end, trovando molto interesse sopratutto nel linguaggio javascript e framework come react, che purtroppo ho solo avuto qualche accenno.🙏
-Spero di avervi incuriosito e spero di poter aumentare le mie skill sia dall'acquisizione di nuovi linguaggi sia per acquisire nuove competenze personali.✨
+I'm Federico and i got into the world of programming during the pandemic period of COVID-19. It was during this time that i researched various bootcamps, eventually deciding at the end of 2022 to embark on a path in this new sector as a Java developer. Once I completed this journey, I chose to deepen my knowledge in Front-end development, finding a lot of interest, especially in JavaScript and frameworks like React, although I've only had some glimpses so far. 🙏
+I hope I've piqued your interest, and I'm looking forward to enhancing my skills both by acquiring new languages and by gaining new personal competencies.✨
 
 
 ### Languages
