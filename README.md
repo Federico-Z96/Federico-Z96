@@ -20,7 +20,7 @@ Spero di avervi incuriosito e spero di poter aumentare le mie skill sia dall'acq
 So now I'm a front-end developer ✨
 
 ### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FedericoZaccaria"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Federico-Z96"/>
 
 
 ### Stats 📈
