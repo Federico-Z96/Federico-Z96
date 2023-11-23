@@ -8,23 +8,23 @@ EMOJI: https://emojipedia.org/
 
 
 
-<div style:"display:flex; align-items:center;">
+
 <img text-align="center" width="30%" src="https://github.com/Federico-Z96/Federico-Z96/assets/124045425/15a3b122-3032-4e03-9dcb-a45e28ab7ed8"  />
 
-<div>### Hi there 😜
+### Hi there 😜
 
 sono Federico, classe 96 mi sono avvicinato al mondo della programmazione durante il periodo delle pandemie durante il covid-19.
 Durante questo periodo mi informai su vari bootcamp per poi a fine 2022 decidere di intreprende un percorso in questo nuovo settore, come java developer.
 finito questo percorso decisi di approfondire la mia conoscenza nel Front-end, trovando molto interesse sopratutto nel linguaggio javascript e framework come react, che purtroppo ho solo avuto qualche accenno.🙏
 Spero di avervi incuriosito e spero di poter aumentare le mie skill sia dall'acquisizione di nuovi linguaggi sia per acquisire nuove competenze personali.✨
-</div></div>
+
 
 ### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Federico-Z96"/>
 
 
 ### Stats 📈
-<img src="https://github-readme-stats.vercel.app/api?username=EricaCandido&show_icons=true"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=Federico-Z96&show_icons=true"/>  
 
 ### Fields of application
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
