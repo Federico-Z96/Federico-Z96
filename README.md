@@ -28,7 +28,7 @@ Spero di avervi incuriosito e spero di poter aumentare le mie skill sia dall'acq
 
 ### Fields of application
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img width="10%" src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg"></code>
+<code><img width="10px" src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="-10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <br />
