@@ -2,6 +2,7 @@
 <img text-align="center" width="30%" src="https://github.com/Federico-Z96/Federico-Z96/assets/124045425/15a3b122-3032-4e03-9dcb-a45e28ab7ed8"  />
 <br></br>
 I'm Federico and i got into the world of programming during the pandemic period of COVID-19. It was during this time that i researched various bootcamps, eventually deciding at the end of 2022 to embark on a path in this new sector as a Java developer. Once I completed this journey, I chose to deepen my knowledge in Front-end development, finding a lot of interest, especially in JavaScript and frameworks like React, although I've only had some glimpses so far. 🙏
+<br></br>
 I hope I've piqued your interest, and I'm looking forward to enhancing my skills both by acquiring new languages and by gaining new personal competencies.🚀🚀
 
 
